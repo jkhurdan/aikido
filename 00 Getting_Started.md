@@ -5,7 +5,7 @@
 
 ## What you need to train
 * Aikido Doj (uniform). Typically you can buy this from your dojo. Some offer traditional heavy weight ones, while others offer more karate like style uniforms. You can also buy more premium ones from shops like [Tozando](https://photos.app.goo.gl/sd9WH5tUjX7jYuLQ7). If your uniform from your dojo comes with a draw string pants, We recommend the elastic karate pants, which you can buy cheap from Amzaon for cheap.
-* It is okay to wear pants under your aikido pants (if you want). Many people will wear rash gaurds or other atheletic pants under it. The elastic pants tend to fit people better, and doesn't fall down as much as the drawstring pants that typical uniform sets come with.
+* It is okay to wear pants under your aikido pants (if you want). Many people will wear rash gaurds or other atheletic pants under it. The elastic pants tend to fit people better, and doesn't fall down as much as the drawstring pants that typical uniform sets come with. Especially if you wear some sort of atheletic pants under your aikido pants.
 
 ## How to tie your belt
 You'll see several ways that people might tie their belt. Below is a fairly standard way of doing so:
@@ -26,7 +26,7 @@ You'll see several ways that people might tie their belt. Below is a fairly stan
 * When stepping on and off the mat you should bow to the *Kamiza*. This is usually at the front of the training space, where the picture of O'Sensei (the founder of Aikido) sits.
 
 ### Lining up and bowing in
-In our dojo, we do not line up in rank order, however in some dojo's you do. If you line up in rank order, the senior most student in on the right hand side (also called the joseki side). You should be in line before class begins, often times signaled by a gong or clap. You should sit in seiza, however keiza is also fine if your knees do not allow it. 
+In our dojo, we do not line up in rank order, however in some dojo's you do. If you line up in rank order, the senior most student in on the right hand side (also called the joseki side). You should be in line before class begins, often times signaled by a gong or clap. You should sit in seiza, however keiza (legs crossed in the back) is also fine if your knees do not allow it. 
 
 #### **Sitting in Seiza**
 
@@ -42,11 +42,11 @@ Onegaishimasu (お願いします) pronounced roughly as "oh-neh-gah-ee-shee-mas
 This roughly translates to "please, I wish" refering to wishing to have a good class. Culturally this is said before doing many things. For example before playing chess you might wish to have a good game.
 
 #### **Notes on bowing**
-When you sit in sieza, your back should be straight. When bow you should bow with a straight back by hinging at the hip. You'll place your left hand down first in front of you forming half a triangle with with thumb and fingers, then your right completing the triangle, then proceed to bow. Placing the left hand first, would (in theory) block you from drawing your sowrd, which is an indication you mean no harm. The martial bow, is to continuously look at the person you are bowing to. In aikido, we keep our gaze looking at abouw half way from you and the person you are bowing to.
+When you sit in sieza, your back should be straight. When bow you should bow with a straight back by hinging at the hip. You'll place your left hand down first in front of you forming half a triangle with with thumb and fingers, then your right hand comes down completing the triangle, then proceed to bow. Placing the left hand first, would (in theory) block you from drawing your sword, which is an indication you mean no harm. The martial bow, is to continuously look at the person you are bowing to. In aikido, we keep our gaze looking at about half way from you and the person you are bowing to.
 
 **important Cultural notes**
 
-In Japan theirs a cast system, where by the Shogun was greater than (>) Feudal Lords > Samurai > Merchants/farmers > ordinary citizens. As a result, the way you bow to someone above you (in this case Sensei is slightly different) When Sensei turns to bow to you, you should bow first, and you should bow deeper (lower) then S/he does. You'll wait until they behind to raise, and then you'll raise after. Most dojos are not as strict about these rules.
+In Japan there's a cast system, where by the Shogun was greater than (>) Feudal Lords > Samurai > Merchants/farmers > ordinary citizens. As a result, the way you bow to someone above you (in this case Sensei is slightly different). When Sensei turns to bow to you, you should bow first, and you should bow deeper (lower) then s/he does. You'll wait until they begin to raise, and then you'll raise after. Most dojos are not as strict about these rules.
 
 ### If you arrive late
 If you arrive after the class as bowed in, you'll wait in seiza on the edge of the mat, and wait to be waived on to the mat. Once Sensei has allowed you to come on to the mat, you'll bow to the Kamiza and say Onegaishmasu before begining practice.
@@ -55,13 +55,13 @@ If you arrive after the class as bowed in, you'll wait in seiza on the edge of t
 ## Other things you should know
 * Never sit in front of the Kamiza (especially in front of O'sensei). It is seen as rude.
 * You can sit cross legged, but never have the bottoms of your feet pointing towards O'Sensei (it is seen as rude)
-* You should always let senpai go first when training, or doing anything in the dojo. There is one exception, where if you are called up to demonstrate then you would start the technique first (however even in those cases, you should often senpai to go first - at which they'll say you should. The culture is overly polite.
+* You should always let senpai go first when training, or doing anything in the dojo. There is one exception, where if you are called up to demonstrate then you would start the technique first (however even in those cases, you should offer senpai to go first - at which they'll say you should. The culture is overly polite.)
 * Typically the junior most student will attack first, and the senior student will do the technique 4 times, and then you'll swtich.
 
 ### Bowing out/off the mat
 When class is done you'll line up again. Sensei will repeat the same process of bowing to the Kamiza, and then to the class. This time you'll say:
 
-"Domo arigato gozaimasu" (どうもありがとうございます) is a formal and very polite Japanese phrase meaning "Thank you very much,". It is pronounced doh-moh ah-ree-gah-toh goh-zah-ee-mahs. [Present vs Past tense pronounciation](https://www.youtube.com/watch?v=DXB8gF5i2NI)
+"Domo arigato gozaimasu" (どうもありがとうございます). This is a formal and very polite Japanese phrase meaning "Thank you very much,". It is pronounced doh-moh ah-ree-gah-toh goh-zah-ee-mahs. [Present vs Past tense pronounciation](https://www.youtube.com/watch?v=DXB8gF5i2NI)
 
 The same bowing rules apply. After you bow out, you'll then bow to your training partners. Afterwhich you'll face the kamiza and bow as you walk off the mat. At this point, you should help with cleaning.
 
