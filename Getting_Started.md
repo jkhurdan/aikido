@@ -10,7 +10,7 @@
 ## How to tie your belt
 You'll see several ways that people might tie their belt. Below is a fairly standard way of doing so:
 
-![instructions on how to tie your belt](https://bjjsportswear.com/wp-content/uploads/2025/06/How-to-Tie-Obi.jpg)
+![instructions on how to tie your belt](https://bjjsportswear.com/wp-content/uploads/2025/06/How-to-Tie-Obi.jpg) <br>
 [video of how to put on your belt](https://photos.app.goo.gl/sd9WH5tUjX7jYuLQ7). Sorry for the fan in the background, you just have to watch the first 50 seconds.
 
 
@@ -31,8 +31,7 @@ In our dojo, we do not line up in rank order, however in some dojo's you do. If 
 #### **Sitting in Seiza**
 
 ![Sitting in seiza](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM4y0mkij7YsMGQa96DCXUdbB493tA5ZxXA&s)
-
-[video explanation of how to site in Seiza](https://youtu.be/bAJSawy-_Ys?si=TohDC_jYXaaoAxoc&t=169)(2:49)
+<br> [video explanation of how to site in Seiza](https://youtu.be/bAJSawy-_Ys?si=TohDC_jYXaaoAxoc&t=169)(2:49)
 
 #### **Bowing process**
 
@@ -56,7 +55,15 @@ If you arrive after the class as bowed in, you'll wait in seiza on the edge of t
 ## Other things you should know
 * Never sit in front of the Kamiza (especially in front of O'sensei). It is seen as rude.
 * You can sit cross legged, but never have the bottoms of your feet pointing towards O'Sensei (it is seen as rude)
-* You should always let senpai go first when training, or do anything in the dojo. There is one exception, where if you are called up to demonstrate then you would start the technique first (however even in those cases, you should often senpai to go first - at which they'll say you should. The culture is overly polite. 
+* You should always let senpai go first when training, or doing anything in the dojo. There is one exception, where if you are called up to demonstrate then you would start the technique first (however even in those cases, you should often senpai to go first - at which they'll say you should. The culture is overly polite.
+* Typically the junior most student will attack first, and the senior student will do the technique 4 times, and then you'll swtich.
+
+### Bowing out/off the mat
+When class is done you'll line up again. Sensei will repeat the same process of bowing to the Kamiza, and then to the class. This time you'll say:
+
+"Domo arigato gozaimasu" (どうもありがとうございます) is a formal and very polite Japanese phrase meaning "Thank you very much,". It is pronounced doh-moh ah-ree-gah-toh goh-zah-ee-mahs. [Present vs Past tense pronounciation](https://www.youtube.com/watch?v=DXB8gF5i2NI)
+
+The same bowing rules apply. After you bow out, you'll then bow to your training partners. Afterwhich you'll face the kamiza and bow as you walk off the mat. At this point, you should help with cleaning.
 
 ## Advanced knowledge
 ### Parts of the dojo
