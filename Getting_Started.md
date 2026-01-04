@@ -46,6 +46,7 @@ This roughly translates to "please, I wish" refering to wishing to have a good c
 When you sit in sieza, your back should be straight. When bow you should bow with a straight back by hinging at the hip. You'll place your left hand down first in front of you forming half a triangle with with thumb and fingers, then your right completing the triangle, then proceed to bow. Placing the left hand first, would (in theory) block you from drawing your sowrd, which is an indication you mean no harm. The martial bow, is to continuously look at the person you are bowing to. In aikido, we keep our gaze looking at abouw half way from you and the person you are bowing to.
 
 **important Cultural notes**
+
 In Japan theirs a cast system, where by the Shogun was greater than (>) Feudal Lords > Samurai > Merchants/farmers > ordinary citizens. As a result, the way you bow to someone above you (in this case Sensei is slightly different) When Sensei turns to bow to you, you should bow first, and you should bow deeper (lower) then S/he does. You'll wait until they behind to raise, and then you'll raise after. Most dojos are not as strict about these rules.
 
 ### If you arrive late
