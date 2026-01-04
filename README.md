@@ -4,4 +4,5 @@
 
 ## Table of Contents
 
-[00 Getting Started](00%20Getting_Started.md)
+[00 Getting Started](00_Getting_Started.md) - Dojo Ettiquette, and things you should know walking into an Aikido dojo.
+[01 6th Kyu](01_6Kyu.md) - What you should learn as a nonranked person getting ready for your 6th Kyu
